@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
     //this comment to be uploaded to the git repository for trial 
-    //this comment from seif 
     public class doctor
     {
         public class Doctor
