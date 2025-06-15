@@ -16,6 +16,7 @@ public class HospitalSystem
         private Queue<Patient> emergencyQueue;
         private Queue<Patient> criticalQueue;
         private Queue<Patient> generalQueue;
+            private List<Patient> trial;
 
         public HospitalSystem()
         {
